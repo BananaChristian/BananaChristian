@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @BananaChristian
 - 👀 I’m interested in Programming as a whole
-- 🌱 I’m currently learning Javascript
-- 💞️ I’m looking to collaborate on learning web development
+- 🌱 I’m currently learning Python 
+- 💞️ I’m looking to collaborate on learning web development and python
 - 📫 How to reach me bananachristian04@gmail.com
 
 <!---
