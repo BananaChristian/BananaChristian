@@ -10,10 +10,10 @@ My mission is simple:
 ---
 
 ### 🚀 Currently Working On:
-- ⚙️ Building **Quil**, a C++-like programming language with a cleaner syntax
-- 🧠 Developing **Chapati**, a 2D game engine built from scratch in C++
-- 🔌 Diving deep into embedded systems with **Arduino** and **Wokwi**
-- 📱 Created a custom **multi-device connector app** to sync and control my phones — personal solution to reduce friction and increase productivity
+- ⚙️ **Quil** – A modern, C++-like programming language with simplified syntax and serious speed goals *(repo coming soon!)*
+- 🧠 **Chapati** – A lightweight 2D game engine in C++, built to teach myself systems-level design *(repo coming soon!)*
+- 🔌 **Arduino & Embedded Systems** – Learning the internals of microcontrollers using Wokwi and real boards
+- 📱 **Phone Connector App** – A Flutter-based tool I built to sync/control my devices across multiple screens *(repo coming soon!)*
 
 ---
 
@@ -26,8 +26,6 @@ Let’s build things, break things, and rebuild better.
 ---
 
 📬 Reach me for:  
-- Collaboration on embedded or low-level projects  
-- Sharing ideas around custom languages or game engines  
-- Building practical tools that solve everyday problems  
+- Collaborating on embedded or low-level projects  
+- Sharing ideas around compilers, game engines, or clean app design  
 - Or just nerding out on C++, hardware, and systems thinking
-
