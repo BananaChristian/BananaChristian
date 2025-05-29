@@ -1,10 +1,33 @@
-- 👋 Hi, I’m @BananaChristian
-- 👀 I’m interested in Programming as a whole
-- 🌱 I’m currently learning Python 
-- 💞️ I’m looking to collaborate on learning web development and python
-- 📫 How to reach me bananachristian04@gmail.com
+# 👋 Hey there, I'm Banana Christian
 
-<!---
-BananaChristian/BananaChristian is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### 🇺🇬 Developer from Uganda | System Explorer | Tech Realist
+
+I’m deeply fascinated by how things work under the hood — from microcontrollers to game engines, from compilers to custom languages. I believe technology isn't just code — it's architecture, logic, and craftsmanship.
+
+My mission is simple:  
+**Master low-level systems and build tools that make me and others independent.**
+
+---
+
+### 🚀 Currently Working On:
+- ⚙️ Building **Quil**, a C++-like programming language with a cleaner syntax
+- 🧠 Developing **Chapati**, a 2D game engine built from scratch in C++
+- 🔌 Diving deep into embedded systems with **Arduino** and **Wokwi**
+- 📱 Created a custom **multi-device connector app** to sync and control my phones — personal solution to reduce friction and increase productivity
+
+---
+
+### 🤝 Join Me:
+I believe the best way to learn is by doing — and doing *together*.  
+Let’s build things, break things, and rebuild better.
+
+> “Knowledge is for all. Mastery is for those who keep showing up.”
+
+---
+
+📬 Reach me for:  
+- Collaboration on embedded or low-level projects  
+- Sharing ideas around custom languages or game engines  
+- Building practical tools that solve everyday problems  
+- Or just nerding out on C++, hardware, and systems thinking
+
