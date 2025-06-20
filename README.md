@@ -1,6 +1,6 @@
 # Hey there, I'm Banana Christian
 
-### 🇺🇬 Developer from Uganda | System Explorer | Tech Realist
+### Developer from Uganda | System Explorer | Tech Realist
 
 I’m deeply fascinated by how things work under the hood from microcontrollers to game engines, from compilers to custom languages. I believe technology isn't just code it's architecture, logic, and craftsmanship.
 
@@ -21,7 +21,7 @@ Let’s build things, break things, and rebuild better.
 
 ---
 
-📬 Reach me for:  
-- Collaborating on embedded or low-level projects  
+Reach me for:  
+- Collaborating and learning together as we build low-level projects  
 - Sharing ideas around compilers, game engines, or clean app design  
-- Or just nerding out on C++, hardware, and systems thinking
+- Or just nerding out on C++ and systems thinking
