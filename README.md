@@ -14,5 +14,3 @@ My mission is simple:
 - **Chapati** – A lightweight 2D game engine in C++, built to teach myself systems-level design *(repo coming soon!)*
 - **Arduino & Embedded Systems** Learning the internals of microcontrollers using Wokwi and real boards
 - **Phone Connector App** A Flutter-based tool I built to sync/control my devices across multiple screens *(repo coming soon!)*
-
----
